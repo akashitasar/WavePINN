@@ -38,7 +38,7 @@ This repository is derived from the work of the authors of:
 
 repository: pinn_wave.git
 
-Their implementation served as the starting point for this project. Subsequent modifications adapted the code to solve an impact-driven wave propagation problem, with ongoing efforts to tune the network hyperparameters for improved solution convergence. Additional changes included refining the temporal discretization, improving result visualization and plotting, and evaluating the accuracy and stability of the predicted wave response.
+Their implementation served as the starting point for this project. Subsequent modifications adapted the code to solve an impact-driven wave propagation problem, with ongoing efforts to resolve BCs, tune the network hyperparameters for improved solution convergence. Additional changes included refining the temporal discretization, improving result visualization and plotting, and evaluating the accuracy and stability of the predicted wave response.
 
 ## License
 
